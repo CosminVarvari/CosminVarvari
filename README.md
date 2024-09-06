@@ -59,7 +59,7 @@
 
 - **[AgeGuessr](https://github.com/CosminVarvari/AgeGuessr)** - An interactive web app that estimates the age of people from images using advanced AI models. It was built with Django (backend), Angular (frontend), and JWT authentication for a seamless user experience.
 - **[Electronic Device Energy Management System](https://github.com/CosminVarvari/energy-management-system)** - A microservices-based system managing energy consumption of electronic devices. Developed with Java, Spring Boot, and Angular.
-- **[Shoe Store Management App](https://github.com/CosminVarvari/shoe-store-app)** - An e-commerce platform for managing shoe store inventory and orders, built with Angular and Django.
+- **[Shoe Store Management App](https://github.com/CosminVarvari/shoe-app)** - An e-commerce platform for managing shoe store inventory and orders, built with Angular and Django.
 
 ---
 
